@@ -37,7 +37,7 @@ namespace HeadPhoto999
             {
                 int x = random.Next(0, width);
                 int y = random.Next(0, height);
-                Point[] points = { new Point(x, y), new Point(x + 50, y), new Point(x, y + 50) };
+                Point[] points = { new Point(x, y), new Point(x + imageList1.ImageSize.Width, y), new Point(x, y + imageList1.ImageSize.Height) };
                 int index = random.Next(0, imageList1.Images.Count);
                 Image img = imageList1.Images[index];
                 graphics.DrawImage(img, points);
