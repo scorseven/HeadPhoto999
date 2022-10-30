@@ -11,3 +11,6 @@
 3. 使用Graphics.DrawImage()方法，绘制到随机头像
 4. 只做上面这些，图片能绘制出来，但是会一闪而过
 5. 把绘图的函数绑定到Paint的EventHandler上
+6. 把绘图函数放入循环，让随机头像覆盖整个屏幕
+
+![alt 预览](https://github.com/scorseven/md_Images/blob/main/HeadPhoto999%20Beta.png)
