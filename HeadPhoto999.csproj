@@ -7,7 +7,7 @@
     <ProjectGuid>{C02F56FE-3B2F-4AD9-8DA2-7121B7AA3E14}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>HeadPhoto999</RootNamespace>
-    <AssemblyName>HeadPhoto999</AssemblyName>
+    <AssemblyName>91iKun</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
